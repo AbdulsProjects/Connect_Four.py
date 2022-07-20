@@ -271,7 +271,5 @@ def play():
                     continue
 
                     
-    
-
-
+#Runs the game if the program is ran
 play()
