@@ -1,5 +1,5 @@
-# Connect_Four
-A program containing a functional game of connect 4.
+# Connect Four
+A program containing a functional game of connect four.
 
 This program contains 4 different functions. The functions do the following:
 * **display():** Displays the board
